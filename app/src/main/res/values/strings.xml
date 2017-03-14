@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Propina</string>
 
-    <string name="main.hint.billAmount">Total de la cuenta</string>
+    <string name="main.hint.billAmount">Escriba aquí el total de la cuenta</string>
     <string name="main.message.serviceRating">Calificación del servicio</string>
     <string name="main.message.tipPercent">%s%% Porcentaje de propina</string>
     <string name="main.message.tipTotal">Total Propina</string>
